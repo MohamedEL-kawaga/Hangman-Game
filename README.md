@@ -67,7 +67,5 @@ The project follows a Mobile-First approach and adapts to:
 Front-End Developer
 
 ## Demo :
-
-```text
 https://mohamedel-kawaga.github.io/Hangman-Game/
-```
+
